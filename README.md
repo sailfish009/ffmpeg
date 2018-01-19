@@ -1,6 +1,9 @@
 FFmpeg README
 =============
 
+ ./configure --toolchain=msvc --arch=i386 --enable-version3  --enable-x86asm --enable-asm --disable-static --enable-shared --disable-programs --disable-doc
+
+
 FFmpeg is a collection of libraries and tools to process multimedia content
 such as audio, video, subtitles and related metadata.
 
